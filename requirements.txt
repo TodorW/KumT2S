@@ -1,0 +1,4 @@
+google-cloud-speech==2.19.0
+requests==2.31.0
+openai==0.27.8
+google-auth==2.20.0
